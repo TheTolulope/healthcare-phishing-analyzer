@@ -94,4 +94,4 @@ Relates to **MITRE ATT&CK T1566 (Phishing)**, including Spearphishing Link (T156
 All sample emails are fictional. Domains use the reserved `.example` TLD and IP addresses come from documentation-only ranges. Built for educational purposes.
    ## Related Projects
 
-   - [Hospital GRC Risk Assessment](https://github.com/YOUR-USERNAME/hospital-grc-risk-assessment): phishing is risk R05 in this assessment
+   - [Hospital GRC Risk Assessment](https://github.com/TheTolulope/hospital-grc-risk-assessment): phishing is risk R05 in this assessment
