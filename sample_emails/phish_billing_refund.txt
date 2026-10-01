@@ -1,0 +1,13 @@
+From: Medicare Billing <billing@medicare-refunds.example>
+To: member@example.com
+Subject: You are owed a Medicare refund
+
+Dear Member,
+
+Our records show an overpayment on your last insurance claim. To receive
+your refund, please reply with your Medicare number, date of birth, and
+bank account details.
+
+Or submit them quickly here: https://bit.ly/3fakeRx
+
+Medicare Refund Services

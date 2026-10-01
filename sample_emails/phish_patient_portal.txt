@@ -1,0 +1,15 @@
+From: Riverside General Patient Portal <alerts@riverside-general-secure.example>
+To: patient@example.com
+Subject: URGENT: Your lab results are ready - action required
+
+Dear Patient,
+
+Your recent lab results have been posted to the patient portal. Due to a
+security upgrade, you must verify your account within 24 hours or your
+account will be locked.
+
+Click here to log in and confirm your password:
+https://riverside-general-secure.example/portal/login
+
+Thank you,
+Riverside General Health Records Team

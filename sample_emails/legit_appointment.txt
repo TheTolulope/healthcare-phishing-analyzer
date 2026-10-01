@@ -1,0 +1,15 @@
+From: Riverside General Hospital <appointments@riversidegeneral.example>
+To: maria.lopez@example.com
+Subject: Appointment reminder for October 14
+
+Hi Maria,
+
+This is a reminder of your appointment with Dr. Chen on Tuesday, October 14
+at 10:30 AM at the Main Campus, Building B.
+
+To reschedule, call (555) 010-2200 or visit the patient portal at
+https://portal.riversidegeneral.example
+
+We will never ask for your password by email.
+
+Riverside General Hospital

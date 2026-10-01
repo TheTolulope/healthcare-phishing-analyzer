@@ -1,0 +1,14 @@
+From: HIPAA Compliance Office <hipaa.compliance.dept@gmail.com>
+Reply-To: compliance-review@records-audit.example
+To: staff@riversidegeneral.example
+Subject: Final Notice - HIPAA Violation Reported Against You
+
+Dear User,
+
+A HIPAA violation has been reported involving patient records you accessed.
+Failure to respond within 48 hours will result in disciplinary action.
+
+Review the complaint details here: http://203.0.113.45/hipaa/case
+The full report is attached as Violation_Report.zip
+
+Compliance Department
